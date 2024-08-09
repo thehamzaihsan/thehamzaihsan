@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/ihsanhaamza" target="blank"><img src="https://img.shields.io/twitter/follow/ihsanhaamza?logo=twitter&style=for-the-badge" alt="ihsanhaamza" /></a> </p>
 
-- 🔭 I’m currently working on **building web apps that help others.**
+- 🔭 I’m currently working on **building unique web apps.**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [hamzaihsan.netlify.app](hamzaihsan.netlify.app)
 
 - 📝 I regularly write articles on [dev.to/hamzaihsan](https://dev.to/hamzaihsan)
 
-- 💬 Ask me about **React, Tailwind, Figma, WordPress**
+- 💬 Ask me about **React, Tailwind, Figma, Supabase**
 
 - 📫 How to reach me **thehamzaihsan@gmail.com**
 
