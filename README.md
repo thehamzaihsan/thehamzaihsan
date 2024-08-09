@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [hamzaihsan.netlify.app](hamzaihsan.netlify.app)
 
-- 📝 I regularly write articles on [medium.com/@haamzaihsan](medium.com/@haamzaihsan)
+- 📝 I regularly write articles on [dev.to/hamzaihsan](https://dev.to/hamzaihsan)
 
 - 💬 Ask me about **React, Tailwind, Figma, WordPress**
 
