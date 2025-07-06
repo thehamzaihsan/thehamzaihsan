@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at [hamzaihsan.netlify.app](hamzaihsan.netlify.app)
+- 👨‍💻 All of my projects are available at [hamzaihsan.me](hamzaihsan.me)
 
-- 📝 I regularly write articles on [dev.to/hamzaihsan](https://dev.to/hamzaihsan)
+- 📝 I regularly write articles on [hamzaihsan.me/posts](hamzaihsan.me/posts)
 
 - 💬 Ask me about **React, Tailwind, Figma, Supabase**
 
-- 📫 How to reach me **thehamzaihsan@gmail.com**
+- 📫 How to reach me **hello@hamzaihsan.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
