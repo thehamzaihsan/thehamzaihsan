@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at [hamzaihsan.me](hamzaihsan.me)
+- 👨‍💻 All of my projects are available at ([hamzaihsan.me](https://hamzaihsan.me/))
 
 - 📝 I regularly write articles on [hamzaihsan.me/posts](hamzaihsan.me/posts)
 
