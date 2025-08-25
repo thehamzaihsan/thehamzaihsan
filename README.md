@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at ([hamzaihsan.me](https://hamzaihsan.me/))
 
-- 📝 I regularly write articles on [hamzaihsan.me/posts](hamzaihsan.me/posts)
+- 📝 I regularly write articles on [hamzaihsan.me/posts](https://hamzaihsan.me/posts)
 
 - 💬 Ask me about **React, Tailwind, Figma, Supabase**
 
